@@ -1,0 +1,605 @@
+---
+  intro: 
+    name: "Chris Parnin"
+    title: "Assistant Professor at North Carolina State University"
+    avatar: 
+      display: true
+      path: "https://media.licdn.com/dms/image/C4D03AQFjsuN1fyxOgQ/profile-displayphoto-shrink_200_200/0?e=1580947200&v=beta&t=9X-b99941vAoHfD3VrymE-Ansg6k1bMyQIeC9y5X_iI"
+  contact: 
+    email: "cjparnin@ncsu.edu"
+    phone: "+11111114535"
+    wechat: null
+    telegram: null
+    website: null
+    linkedin: "chris-parnin-4929143"
+    github: "chrisparnin"
+    gitlab: null
+    bitbucket: null
+    twitter: null
+    stackoverflow: null
+    codewars: null
+    goodreads: null
+    googlescholar: "..."
+    researchgate: "..."
+    resume: "..."
+  languages: 
+    display: false
+    title: "Languages"
+    items: 
+      - 
+        idiom: "English"
+        level: "Professional"
+  interests: 
+    display: true
+    title: "Interests"
+    items: 
+      - 
+        item: "Coding"
+      - 
+        item: "Reading"
+  profile: 
+    display: false
+    title: "Profile"
+    details: "For an idea of the type of work I do, see\nhttp://blog.ninlabs.com/2013/01/programmer-interrupted/\n\nAcademic site:\nhttp://chrisparnin.me"
+  education: 
+    display: true
+    title: "Education"
+    items: 
+      - 
+        university: "Georgia Institute of Technology"
+        time: "2007 - 2014"
+        major: "Computer Science"
+        degree: "Doctor of Philosophy (PhD)"
+        details: null
+      - 
+        university: "Georgia Institute of Technology"
+        time: "2003 - 2006"
+        major: "Computer Science"
+        degree: "Master's degree"
+        details: null
+      - 
+        university: "Georgia Institute of Technology"
+        time: "1999 - 2003"
+        major: "Computer Science"
+        degree: "Bachelor of Science (B.S.)"
+        details: null
+  experiences: 
+    display: true
+    title: "Experiences"
+    items: 
+      - 
+        role: "Assistant Professor"
+        time: "Jul 2014 – Present"
+        company: "North Carolina State University"
+        location: null
+        details: null
+      - 
+        role: "GTRI"
+        time: "2000 – Mar 2014"
+        company: null
+        location: null
+        details: "Research Scientist II"
+      - 
+        role: "Title\nSoftware Engineer"
+        time: "2000 – Mar 2014"
+        company: null
+        location: null
+        details: "Research Scientist II"
+      - 
+        role: "Title\nGraduate Research Assistant + Coop"
+        time: "2000 – 2007"
+        company: null
+        location: null
+        details: null
+      - 
+        role: "Research Intern"
+        time: "May 2009 – Aug 2009"
+        company: "Microsoft"
+        location: "Building 99 (Redmond)"
+        details: null
+  projects: 
+    display: true
+    title: "Projects"
+    intro: "these are my projects..."
+    items: 
+      - 
+        name: "anacrowd"
+        link: "https://github.com/chrisparnin/anacrowd"
+        details: "crowd documentation analytic and mining framework"
+      - 
+        name: "ansible-consul"
+        link: "https://github.com/chrisparnin/ansible-consul"
+        details: ":satellite: Ansible role for Consul clusters"
+      - 
+        name: "articles"
+        link: "https://github.com/chrisparnin/articles"
+        details: "Blog articles"
+      - 
+        name: "attachables"
+        link: "https://github.com/chrisparnin/attachables"
+        details: "Attach reminders where and when you need them."
+      - 
+        name: "autogit"
+        link: "https://github.com/chrisparnin/autogit"
+        details: "Automatic git checkins"
+      - 
+        name: "autogit-st"
+        link: "https://github.com/chrisparnin/autogit-st"
+        details: "Automatic checkins to local git repository (Sublime Text)"
+      - 
+        name: "automark"
+        link: "https://github.com/chrisparnin/automark"
+        details: "auto-generate blog post from coding history"
+      - 
+        name: "blog.ninlabs.com"
+        link: "https://github.com/chrisparnin/blog.ninlabs.com"
+        details: "ninlabs research blog"
+      - 
+        name: "chaos-eng-workshop"
+        link: "https://github.com/chrisparnin/chaos-eng-workshop"
+        details: "Chaos Engineering Workshop CFP"
+      - 
+        name: "checkbox.io"
+        link: "https://github.com/chrisparnin/checkbox.io"
+        details: "A simple web application for hosting surveys"
+      - 
+        name: "Codegrams"
+        link: "https://github.com/chrisparnin/Codegrams"
+        details: "A codegram is a succint summary of a source code commit."
+      - 
+        name: "commons-lang"
+        link: "https://github.com/chrisparnin/commons-lang"
+        details: "Mirror of Apache Commons Lang"
+      - 
+        name: "ComputingEnvironmentsWorkshop"
+        link: "https://github.com/chrisparnin/ComputingEnvironmentsWorkshop"
+        details: "Creating computing environments."
+      - 
+        name: "consul"
+        link: "https://github.com/chrisparnin/consul"
+        details: "Service Discovery and Configuration Made Easy"
+      - 
+        name: "CSrankings"
+        link: "https://github.com/chrisparnin/CSrankings"
+        details: "A web app for ranking computer science departments according to their research output in selective venues."
+      - 
+        name: "data-challenge"
+        link: "https://github.com/chrisparnin/data-challenge"
+        details: null
+      - 
+        name: "DataChallenge"
+        link: "https://github.com/chrisparnin/DataChallenge"
+        details: null
+      - 
+        name: "docker-reduce"
+        link: "https://github.com/chrisparnin/docker-reduce"
+        details: null
+      - 
+        name: "docsight"
+        link: "https://github.com/chrisparnin/docsight"
+        details: "Chrome extension for viewing past visits to developer resource sites, such as Stack Overflow Questions"
+      - 
+        name: "EclipseRankingPlugin"
+        link: "https://github.com/chrisparnin/EclipseRankingPlugin"
+        details: "Expertimental Plugin for Automated Debugging Research "
+      - 
+        name: "EngineeringBasics"
+        link: "https://github.com/chrisparnin/EngineeringBasics"
+        details: null
+      - 
+        name: "FocusDash"
+        link: "https://github.com/chrisparnin/FocusDash"
+        details: "A focus dashboard endpoint"
+      - 
+        name: "generic.tools"
+        link: "https://github.com/chrisparnin/generic.tools"
+        details: "Research tool chain for analysis of Java generic usage in open source projects."
+      - 
+        name: "gistable"
+        link: "https://github.com/chrisparnin/gistable"
+        details: "GitHub gists and the dockerfiles needed to run them."
+      - 
+        name: "HW0-510"
+        link: "https://github.com/chrisparnin/HW0-510"
+        details: null
+      - 
+        name: "hw4"
+        link: "https://github.com/chrisparnin/hw4"
+        details: "Memory aids for Visual Studio"
+      - 
+        name: "ILookLikeAnEngineer"
+        link: "https://github.com/chrisparnin/ILookLikeAnEngineer"
+        details: "Analyze engineer profiles for research"
+      - 
+        name: "marked"
+        link: "https://github.com/chrisparnin/marked"
+        details: "A markdown parser and compiler. Built for speed."
+      - 
+        name: "natix"
+        link: "https://github.com/chrisparnin/natix"
+        details: "The natix library"
+      - 
+        name: "node-blink1"
+        link: "https://github.com/chrisparnin/node-blink1"
+        details: "A Node.js library for the blink(1)"
+  publications: 
+    display: true
+    title: "Publications"
+    intro: "these are my papers..."
+    items: 
+      - 
+        title: "Beyond the code itself: how programmers  look at pull requests."
+        authors: "Denae Ford, Mahnaz Behroozi, Alexander Serebrenik, Chris Parnin"
+        conference: "ICSE-SEIS"
+        link: "https://dblp.org/db/conf/icse/icse2019seis.html#FordBSP19"
+      - 
+        title: "Sorry to bother you: designing bots for effective recommendations."
+        authors: "Chris Brown, Chris Parnin"
+        conference: "BotSE@ICSE"
+        link: "https://dblp.org/db/conf/icse/botse2019.html#BrownP19"
+      - 
+        title: "The seven sins: security smells in infrastructure as code scripts."
+        authors: "Akond Rahman, Chris Parnin, Laurie Williams"
+        conference: "ICSE"
+        link: "https://dblp.org/db/conf/icse/icse2019.html#RahmanPW19"
+      - 
+        title: "DockerizeMe: automatic inference of environment dependencies for python code snippets."
+        authors: "Eric Horton, Chris Parnin"
+        conference: "ICSE"
+        link: "https://dblp.org/db/conf/icse/icse2019.html#HortonP19"
+      - 
+        title: "CodersMUSE: multi-modal data exploration of program-comprehension experiments."
+        authors: "Norman Peitek, Sven Apel, André Brechmann, Chris Parnin, Janet Siegmund"
+        conference: "ICPC"
+        link: "https://dblp.org/db/conf/iwpc/icpc2019.html#PeitekABPS19"
+      - 
+        title: "DockerizeMe: Automatic Inference of Environment Dependencies for Python Code Snippets."
+        authors: "Eric Horton, Chris Parnin"
+        conference: "CoRR"
+        link: "https://dblp.org/db/journals/corr/corr1905.html#abs-1905-11127"
+      - 
+        title: "Security Smells in Infrastructure as Code Scripts."
+        authors: "Akond Rahman, Md. Rayhanur Rahman, Chris Parnin, Laurie Williams"
+        conference: "CoRR"
+        link: "https://dblp.org/db/journals/corr/corr1907.html#abs-1907-07159"
+      - 
+        title: "V2: Fast Detection of Configuration Drift in Python."
+        authors: "Eric Horton, Chris Parnin"
+        conference: "CoRR"
+        link: "https://dblp.org/db/journals/corr/corr1909.html#abs-1909-06251"
+      - 
+        title: "Special edition of the Journal of Software: Evolution and Process for the 4th IEEE Working Conference on Software Visualization (VISSOFT 2016)."
+        authors: "Christopher Parnin, Johan Fabry"
+        conference: "Journal of Software: Evolution and Process"
+        link: "https://dblp.org/db/journals/smr/smr30.html#ParninF18"
+      - 
+        title: "\"We Don't Do That Here\": How Collaborative Editing with Mentors Improves Engagement in Social Q&A Communities."
+        authors: "Denae Ford, Kristina Lustig, [object Object], Chris Parnin"
+        conference: "CHI"
+        link: "https://dblp.org/db/conf/chi/chi2018.html#FordLBP18"
+      - 
+        title: "Simultaneous measurement of program comprehension with fMRI and eye tracking: a case study."
+        authors: "Norman Peitek, Janet Siegmund, Chris Parnin, Sven Apel, Johannes C. Hofmeister, André Brechmann"
+        conference: "ESEM"
+        link: "https://dblp.org/db/conf/esem/esem2018.html#PeitekSPAHB18"
+      - 
+        title: "Toward conjoint analysis of simultaneous eye-tracking and fMRI data for program-comprehension studies."
+        authors: "Norman Peitek, Janet Siegmund, Chris Parnin, Sven Apel, André Brechmann"
+        conference: "EMIP@ETRA"
+        link: "https://dblp.org/db/conf/etra/emip2018.html#PeitekSPAB18"
+      - 
+        title: "Can we predict stressful technical interview settings through eye-tracking?"
+        authors: "Mahnaz Behroozi, Chris Parnin"
+        conference: "EMIP@ETRA"
+        link: "https://dblp.org/db/conf/etra/emip2018.html#BehrooziP18"
+      - 
+        title: "Beyond gaze: preliminary analysis of pupil dilation and blink rates in an fMRI study of program comprehension."
+        authors: "Norman Peitek, Janet Siegmund, Chris Parnin, Sven Apel, André Brechmann"
+        conference: "EMIP@ETRA"
+        link: "https://dblp.org/db/conf/etra/emip2018.html#PeitekSPAB18a"
+      - 
+        title: "10+ years of teaching software engineering with itrust: the good, the bad, and the ugly."
+        authors: "Sarah Heckman, Kathryn T. Stolee, Christopher Parnin"
+        conference: "ICSE (SEET)"
+        link: "https://dblp.org/db/conf/icse/seet2018.html#HeckmanSP18"
+      - 
+        title: "Dazed: measuring the cognitive load of solving technical interview problems at the whiteboard."
+        authors: "[object Object], Alison Lui, Ian Moore, Denae Ford, Chris Parnin"
+        conference: "ICSE (NIER)"
+        link: "https://dblp.org/db/conf/icse/nier2018.html#BehrooziLMFP18"
+      - 
+        title: "Gistable: Evaluating the Executability of Python Code Snippets on GitHub."
+        authors: "Eric Horton, Chris Parnin"
+        conference: "ICSME"
+        link: "https://dblp.org/db/conf/icsm/icsme2018.html#HortonP18"
+      - 
+        title: "Comparing developer-provided to user-provided tests for fault localization and automated program repair."
+        authors: "René Just, Chris Parnin, Ian Drosos, Michael D. Ernst"
+        conference: "ISSTA"
+        link: "https://dblp.org/db/conf/issta/issta2018.html#JustPDE18"
+      - 
+        title: "Evaluating how developers use general-purpose web-search for code retrieval."
+        authors: "Md. Masudur Rahman, Jed Barson, Sydney Paul, Joshua Kayan, Federico Andres Lois, Sebastian Fernandez Quezada, Christopher Parnin, Kathryn T. Stolee, Baishakhi Ray"
+        conference: "MSR"
+        link: "https://dblp.org/db/conf/msr/msr2018.html#RahmanBPKLQPSR08"
+      - 
+        title: "Neural Efficiency of Top-Down Program Comprehension."
+        authors: "Norman Peitek, Janet Siegmund, Chris Parnin, Sven Apel, Johannes Hofmeister, Christian Kästner, Andrew Begel, Anja Bethmann, André Brechmann"
+        conference: "Software Engineering"
+        link: "https://dblp.org/db/conf/se/se2018.html#PeitekSPAHKBBB18"
+      - 
+        title: "How should compilers explain problems to developers?"
+        authors: "Titus Barik, Denae Ford, Emerson R. Murphy-Hill, Chris Parnin"
+        conference: "ESEC/SIGSOFT FSE"
+        link: "https://dblp.org/db/conf/sigsoft/fse2018.html#BarikFMP18"
+      - 
+        title: "No half-measures: A study of manual and tool-assisted end-user programming tasks in Excel."
+        authors: "Rahul Pandita, Chris Parnin, Felienne Hermans, Emerson R. Murphy-Hill"
+        conference: "VL/HCC"
+        link: "https://dblp.org/db/conf/vl/vlhcc2018.html#PanditaPHM18"
+      - 
+        title: "It's Like Python But: Towards Supporting Transfer of Programming Language Knowledge."
+        authors: "Nischal Shrestha, Titus Barik, Chris Parnin"
+        conference: "VL/HCC"
+        link: "https://dblp.org/db/conf/vl/vlhcc2018.html#ShresthaBP18"
+      - 
+        title: "Evaluating How Developers Use General-Purpose Web-Search for Code Retrieval."
+        authors: "Md. Masudur Rahman, Jed Barson, Sydney Paul, Joshua Kayan, Federico Andres Lois, Sebastian Fernandez Quezada, Christopher Parnin, Kathryn T. Stolee, Baishakhi Ray"
+        conference: "CoRR"
+        link: "https://dblp.org/db/journals/corr/corr1803.html#abs-1803-08612"
+      - 
+        title: "Gistable: Evaluating the Executability of Python Code Snippets on GitHub."
+        authors: "Eric Horton, Chris Parnin"
+        conference: "CoRR"
+        link: "https://dblp.org/db/journals/corr/corr1808.html#abs-1808-04919"
+      - 
+        title: "It's Like Python But: Towards Supporting Transfer of Programming Language Knowledge."
+        authors: "Nischal Shrestha, Titus Barik, Chris Parnin"
+        conference: "CoRR"
+        link: "https://dblp.org/db/journals/corr/corr1808.html#abs-1808-09008"
+      - 
+        title: "Selfies as Social Movements: Influences on Participation and Perceived Impact on Stereotypes."
+        authors: "Fannie Liu, Denae Ford, Chris Parnin, Laura Dabbish"
+        conference: "PACMHCI"
+        link: "https://dblp.org/db/journals/pacmhci/pacmhci1.html#LiuFPD17"
+      - 
+        title: "Gender differences and bias in open source: pull request acceptance of women versus men."
+        authors: "Josh Terrell, Andrew Kofink, Justin Middleton, Clarissa Rainear, Emerson R. Murphy-Hill, Chris Parnin, Jon Stallings"
+        conference: "PeerJ Computer Science"
+        link: "https://dblp.org/db/journals/peerj-cs/peerj-cs3.html#TerrellKMRMPS17"
+      - 
+        title: "The Top 10 Adages in Continuous Deployment."
+        authors: "Chris Parnin, Eric Helms, Chris Atlee, Harley Boughton, Mark Ghattas, Andy Glover, James Holman, John Micco, Brendan Murphy, Tony Savor, Michael Stumm, Shari Whitaker, Laurie Williams"
+        conference: "IEEE Software"
+        link: "https://dblp.org/db/journals/software/software34.html#ParninHABGGHMMS17"
+      - 
+        title: "Characterizing and Predicting Mental Fatigue during Programming Tasks."
+        authors: "Saurabh Sarkar, Chris Parnin"
+        conference: "SEmotion@ICSE"
+        link: "https://dblp.org/db/conf/icse/semotion2017.html#SarkarP17"
+      - 
+        title: "The Tech-Talk Balance: What Technical Interviewers Expect from Technical Candidates."
+        authors: "Denae Ford, [object Object], Leslie Rand-Pickett, Chris Parnin"
+        conference: "CHASE@ICSE"
+        link: "https://dblp.org/db/conf/icse/chase2017.html#FordBRP17"
+      - 
+        title: "Do developers read compiler error messages?"
+        authors: "[object Object], [object Object], Kevin Lubick, Elisabeth Holmes, Jing Feng, Emerson R. Murphy-Hill, Chris Parnin"
+        conference: "ICSE"
+        link: "https://dblp.org/db/conf/icse/icse2017.html#BarikSLHFMP17"
+      - 
+        title: "Can automated pull requests encourage software developers to upgrade out-of-date dependencies?"
+        authors: "Samim Mirhosseini, Chris Parnin"
+        conference: "ASE"
+        link: "https://dblp.org/db/conf/kbse/ase2017.html#MirhosseiniP17"
+      - 
+        title: "On the Nature of Programmer Expertise."
+        authors: "Chris Parnin, Janet Siegmund, Norman Peitek"
+        conference: "PPIG"
+        link: "https://dblp.org/db/conf/ppig/ppig2017.html#ParninSP17"
+      - 
+        title: "Measuring neural efficiency of program comprehension."
+        authors: "Janet Siegmund, Norman Peitek, Chris Parnin, Sven Apel, Johannes Hofmeister, Christian Kästner, Andrew Begel, Anja Bethmann, André Brechmann"
+        conference: "ESEC/SIGSOFT FSE"
+        link: "https://dblp.org/db/conf/sigsoft/fse2017.html#SiegmundPPAHKBB17"
+      - 
+        title: "HappyFace: Identifying and predicting frustrating obstacles for learning programming at scale."
+        authors: "Ian Drosos, Philip J. Guo, Chris Parnin"
+        conference: "VL/HCC"
+        link: "https://dblp.org/db/conf/vl/vlhcc2017.html#DrososGP17"
+      - 
+        title: "Someone like me: How does peer parity influence participation of women on stack overflow?"
+        authors: "Denae Ford, Alisse Harkins, Chris Parnin"
+        conference: "VL/HCC"
+        link: "https://dblp.org/db/conf/vl/vlhcc2017.html#FordHP17"
+      - 
+        title: "Hands-on sensors 101: invited session."
+        authors: "Chris Parnin, Andrew Begel"
+        conference: "SEmotion@ICSE"
+        link: "https://dblp.org/db/conf/icse/semotion2016.html#ParninB16"
+      - 
+        title: "Code drones."
+        authors: "Mithun P. Acharya, Chris Parnin, Nicholas A. Kraft, Aldo Dagnino, Xiao Qu"
+        conference: "ICSE (Companion Volume)"
+        link: "https://dblp.org/db/conf/icse/icse2016c.html#AcharyaPKDQ25"
+      - 
+        title: "Paradise unplugged: identifying barriers for female participation on stack overflow."
+        authors: "Denae Ford, [object Object], Philip J. Guo, Chris Parnin"
+        conference: "SIGSOFT FSE"
+        link: "https://dblp.org/db/conf/sigsoft/fse2016.html#FordSGP16"
+      - 
+        title: "Gender bias in open source: Pull request acceptance of women versus men."
+        authors: "Josh Terrell, Andrew Kofink, Justin Middleton, Clarissa Rainear, Emerson R. Murphy-Hill, Chris Parnin"
+        conference: "PeerJ PrePrints"
+        link: "https://dblp.org/db/journals/peerjpre/peerjpre4.html#TerrellKMRMP16"
+      - 
+        title: "Synthesizing Continuous Deployment Practices Used in Software Development."
+        authors: "Akond Ashfaque Ur Rahman, Eric Helms, Laurie A. Williams, Chris Parnin"
+        conference: "AGILE"
+        link: "https://dblp.org/db/conf/agiledc/agiledc2015.html#RahmanHWP15"
+      - 
+        title: "Exploring Causes of Frustration for Software Developers."
+        authors: "Denae Ford, Chris Parnin"
+        conference: "CHASE@ICSE"
+        link: "https://dblp.org/db/conf/icse/chase2015.html#FordP15"
+      - 
+        title: "Virtual Reality in Software Engineering: Affordances, Applications, and Challenges."
+        authors: "Anthony Elliott, Brian Peiris, Chris Parnin"
+        conference: "ICSE (2)"
+        link: "https://dblp.org/db/conf/icse/icse2015-2.html#ElliottPP15"
+      - 
+        title: "Evaluating the usefulness of IR-based fault localization techniques."
+        authors: "Qianqian Wang, Chris Parnin, Alessandro Orso"
+        conference: "ISSTA"
+        link: "https://dblp.org/db/conf/issta/issta2015.html#WangPO15"
+      - 
+        title: "Measuring Program Comprehension with Functional Magnetic Resonance Imaging."
+        authors: "Janet Siegmund, Sven Apel, Christian Kästner, Chris Parnin, Anja Bethmann, Gunter Saake, Thomas Leich, André Brechmann"
+        conference: "Software Engineering & Management"
+        link: "https://dblp.org/db/conf/se/se2015.html#SiegmundAKPBSLB15"
+      - 
+        title: "Understanding understanding source code with functional magnetic resonance imaging."
+        authors: "Janet Siegmund, Christian Kästner, Sven Apel, Chris Parnin, Anja Bethmann, Thomas Leich, Gunter Saake, [object Object]"
+        conference: "ICSE"
+        link: "https://dblp.org/db/conf/icse/icse2014.html#SiegmundKAPBLSB14"
+      - 
+        title: "Adoption and use of Java generics."
+        authors: "Chris Parnin, Christian Bird, Emerson R. Murphy-Hill"
+        conference: "Empirical Software Engineering"
+        link: "https://dblp.org/db/journals/ese/ese18.html#ParninBM13"
+      - 
+        title: "The Reaction of Open-Source Projects to New Language Features: An Empirical Study of C# Generics."
+        authors: "Donghoon Kim, Emerson R. Murphy-Hill, Chris Parnin, Christian Bird, Ronald Garcia"
+        conference: "Journal of Object Technology"
+        link: "https://dblp.org/db/journals/jot/jot12.html#KimMPBG13"
+      - 
+        title: "1st international workshop on live programming (LIVE 2013)."
+        authors: "Brian Burg, Adrian Kuhn, Chris Parnin"
+        conference: "ICSE"
+        link: "https://dblp.org/db/conf/icse/icse2013.html#BurgKP04"
+      - 
+        title: "Blogging developer knowledge: Motivations, challenges, and future directions."
+        authors: "Chris Parnin, [object Object], Margaret-Anne D. Storey"
+        conference: "ICPC"
+        link: "https://dblp.org/db/conf/iwpc/icpc2013.html#ParninTS13"
+      - 
+        title: "Programmer, interrupted."
+        authors: "Chris Parnin"
+        conference: "VL/HCC"
+        link: "https://dblp.org/db/conf/vl/vlhcc2013.html#Parnin13"
+      - 
+        title: "How We Refactor, and How We Know It."
+        authors: "Emerson R. Murphy-Hill, Chris Parnin, [object Object]"
+        conference: "IEEE Trans. Software Eng."
+        link: "https://dblp.org/db/journals/tse/tse38.html#Murphy-HillPB12"
+      - 
+        title: "Programmer information needs after memory failure."
+        authors: "Chris Parnin, Spencer Rugaber"
+        conference: "ICPC"
+        link: "https://dblp.org/db/conf/iwpc/icpc2012.html#ParninR12"
+      - 
+        title: "Resumption strategies for interrupted programming tasks."
+        authors: "Chris Parnin, Spencer Rugaber"
+        conference: "Software Quality Journal"
+        link: "https://dblp.org/db/journals/sqj/sqj19.html#ParninR11"
+      - 
+        title: "Are automated debugging techniques actually helping programmers?"
+        authors: "Chris Parnin, Alessandro Orso"
+        conference: "ISSTA"
+        link: "https://dblp.org/db/conf/issta/issta2011.html#ParninO11"
+      - 
+        title: "Subvocalization - Toward Hearing the Inner Thoughts of Developers."
+        authors: "Chris Parnin"
+        conference: "ICPC"
+        link: "https://dblp.org/db/conf/iwpc/icpc2011.html#Parnin11"
+      - 
+        title: "Java generics adoption: how new features are introduced, championed, or ignored."
+        authors: "Chris Parnin, Christian Bird, Emerson R. Murphy-Hill"
+        conference: "MSR"
+        link: "https://dblp.org/db/conf/msr/msr2011.html#ParninBM11"
+      - 
+        title: "Evaluating cues for resuming interrupted programming tasks."
+        authors: "Chris Parnin, Robert DeLine"
+        conference: "CHI"
+        link: "https://dblp.org/db/conf/chi/chi2010.html#ParninD10"
+      - 
+        title: "A Cognitive Neuroscience Perspective on Memory for Programming Tasks."
+        authors: "Chris Parnin"
+        conference: "PPIG"
+        link: "https://dblp.org/db/conf/ppig/ppig2010.html#Parnin10"
+      - 
+        title: "CodePad: interactive spaces for maintaining concentration in programming environments."
+        authors: "Chris Parnin, Carsten Görg, Spencer Rugaber"
+        conference: "SOFTVIS"
+        link: "https://dblp.org/db/conf/softvis/softvis2010.html#ParninGR10"
+      - 
+        title: "Adapting Game-Playing Agents to Game Requirements."
+        authors: "Joshua Jones, Chris Parnin, Avik Sinharoy, Spencer Rugaber, Ashok K. Goel 0001"
+        conference: "AIIDE"
+        link: "https://dblp.org/db/conf/aiide/aiide2009.html#JonesPSRG09"
+      - 
+        title: "How we refactor, and how we know it."
+        authors: "Emerson R. Murphy-Hill, Chris Parnin, [object Object]"
+        conference: "ICSE"
+        link: "https://dblp.org/db/conf/icse/icse2009.html#Murphy-HillPB09"
+      - 
+        title: "Resumption strategies for interrupted programming tasks."
+        authors: "Chris Parnin, Spencer Rugaber"
+        conference: "ICPC"
+        link: "https://dblp.org/db/conf/iwpc/icpc2009.html#ParninR09"
+      - 
+        title: "TaskBoard: Tracking pertinent task artifacts and plans."
+        authors: "Chris Parnin, Carsten Görg, Spencer Rugaber"
+        conference: "ICPC"
+        link: "https://dblp.org/db/conf/iwpc/icpc2009.html#ParninGR09"
+      - 
+        title: "Teleological Software Adaptation."
+        authors: "Joshua Jones, Chris Parnin, Avik Sinharoy, Spencer Rugaber, Ashok K. Goel 0001"
+        conference: "SASO"
+        link: "https://dblp.org/db/conf/saso/saso2009.html#JonesPSRG09"
+      - 
+        title: "Improving change descriptions with change contexts."
+        authors: "Chris Parnin, Carsten Görg"
+        conference: "MSR"
+        link: "https://dblp.org/db/conf/msr/msr2008.html#ParninG08"
+      - 
+        title: "Gathering refactoring data: a comparison of four methods."
+        authors: "Emerson R. Murphy-Hill, [object Object], Danny Dig, Chris Parnin"
+        conference: "WRT@OOPSLA"
+        link: "https://dblp.org/db/conf/oopsla/wrt2008.html#Murphy-HillBDP08"
+      - 
+        title: "A catalogue of lightweight visualizations to support code smell inspection."
+        authors: "Chris Parnin, Carsten Görg, Ogechi Nnadi"
+        conference: "SOFTVIS"
+        link: "https://dblp.org/db/conf/softvis/softvis2008.html#ParninGN08"
+      - 
+        title: "Design Guidelines for Ambient Software Visualization in the Workplace."
+        authors: "Chris Parnin, Carsten Görg"
+        conference: "VISSOFT"
+        link: "https://dblp.org/db/conf/vissoft/vissoft2007.html#ParninG07"
+      - 
+        title: "Building Usage Contexts During Program Comprehension."
+        authors: "Chris Parnin, Carsten Görg"
+        conference: "ICPC"
+        link: "https://dblp.org/db/conf/iwpc/icpc2006.html#ParninG06"
+      - 
+        title: "Enriching revision history with interactions."
+        authors: "Chris Parnin, Carsten Görg, Spencer Rugaber"
+        conference: "MSR"
+        link: "https://dblp.org/db/conf/msr/msr2006.html#ParninGR06"
+      - 
+        title: "Lightweight visualizations for inspecting code smells."
+        authors: "Chris Parnin, Carsten Görg"
+        conference: "SOFTVIS"
+        link: "https://dblp.org/db/conf/softvis/softvis2006.html#ParninG06"
+  skills: 
+    display: true
+    title: "Skills"
+    details: " | Machine Learning | Human Computer Interaction | Software Engineering | Algorithms | Computer Science | Programming | Artificial Intelligence | Data Mining | Java | Linux | Python | C++ | C | LaTeX | Information Visualization | Program Analysis | User Research | Visual Analytics | HCI | DevOps"
+  evaluation: 
+    display: false
+    title: "Self-evaluation"
+    details: "Here is my self evaluation..."
+  footer: 
+    display: true
+  close: "please contact me at "
